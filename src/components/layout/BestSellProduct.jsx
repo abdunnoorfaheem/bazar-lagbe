@@ -5,7 +5,7 @@ import Heading from "../Heading";
 import Button from "../Button";
 import Image from "../Image";
 import Product from "../Product";
-import productOne from "/src/assets/productOne.png";
+
 import {useState,useEffect} from "react";
 import axios from "axios";
 
